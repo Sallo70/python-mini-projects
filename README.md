@@ -29,7 +29,8 @@
 | 4 | 🧮 [Calculator](#-4-calculator) | `calculator.py` | 🛠️ Utility | Functions, Error Handling, Menu Loop |
 | 5 | 📝 [To-Do List App](#-5-to-do-list-app) | `todo_list.py` | 🛠️ Utility | Lists, CRUD Operations, Menu System |
 | 6 | 🏦 [Bank Account System](#-6-bank-account-system) | `Bank_sys.py` | 🏗️ OOP | Classes, Methods, Encapsulation |
-| 7 | 🔐 [FizzBuzz & Patterns](#-7-fizzbuzz--patterns) | `RandomPass.py` | 🧠 Algorithm | Math, Modular Arithmetic, Patterns |
+| 7 | 📝 [FizzBuzz & Patterns](#-7-fizzbuzz--patterns) | `FizzBuzz.py` | 🧠 Algorithm | Math, Modular Arithmetic, Patterns |
+| 8 | 🔐 [Random Password Generator](#-7-RandomPass-) | `RandomPass.py` | Random Password Generator | Custom Length, String, Strong Password Support |
 
 ---
 
